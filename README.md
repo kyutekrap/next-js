@@ -1,3 +1,7 @@
+![image](https://github.com/kyutekrap/next-js/assets/117127078/2edae0fa-a8af-4511-8c93-18be4dfa8d04)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
